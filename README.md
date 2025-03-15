@@ -1,6 +1,16 @@
 # Performance Analysis on DNA Alignment Workload with Intel SGX Multithreading
-In this repository there are all the configurations used in the paper:
-[Waiting for full record name]
+Our reference paper is [this](https://ceur-ws.org/Vol-3785/paper107.pdf), to cite us use the following:
+```
+@inproceedings{brescia2024performance,
+  title={Performance analysis on DNA alignment workload with Intel SGX multithreading},
+  author={Brescia, Lorenzo and Colonnelli, Iacopo and Aldinucci, Marco and others},
+  booktitle={CEUR WORKSHOP PROCEEDINGS},
+  volume={3785},
+  pages={13--24},
+  year={2024},
+  organization={CEUR-WS}
+}
+```
 
 The input files of Bowtie2 are confidential and so they are not public. Placeholders files were used within the various configurations, which can be replaced: small1.fq.gz, small2.fq.gz, and Homo_sapiens_assembly38_FILES
 
